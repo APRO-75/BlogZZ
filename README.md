@@ -1,0 +1,2 @@
+# BlogZZ
+My static website
